@@ -49,3 +49,4 @@ build/
 # Windows
 Thumbs.db
 desktop.ini
+**/tempCodeRunnerFile.java
