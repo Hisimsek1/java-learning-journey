@@ -5,5 +5,5 @@ Bu repository, Java programlama dilini öğrenirken yazdığım kodları içerme
 
 Java dilini öğrenirken sadece video izlemiyorum öğrendiğim bilgileri kod yazarak uygulamaya çalışıyorum. Teorikten ziyade uygulayarak kendimi geliştirmeye devam ediyorum.
 
-Java dilindeki gelişimimi takip etmek için kodlara bakabilirsin.
+Java dilindeki gelişimimi takip etmek için kodlara bakabilirsin
 
