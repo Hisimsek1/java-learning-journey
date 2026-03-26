@@ -3,6 +3,8 @@
 
 Bu repository, Java programlama dilini öğrenirken yazdığım kodları içermektedir. YouTube dersleri takip ederek temel seviyeden ileri seviyeye doğru ilerlemekteyim.
 
+Ağırlıklı olarak nesneye yönelik odaklanıyorum.
+
 Java dilini öğrenirken sadece video izlemiyorum öğrendiğim bilgileri kod yazarak uygulamaya çalışıyorum.
 Java dilindeki gelişimimi takip etmek için kodlara bakabilirsin
 
