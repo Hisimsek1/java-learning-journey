@@ -1,4 +1,4 @@
-public class Akademisyen extends Calisan {
+public abstract class Akademisyen extends Calisan {
     String Bolum;
     String Gorev;
     String ders;
@@ -11,10 +11,40 @@ public class Akademisyen extends Calisan {
       this.ders = ders; 
     }
 
-    public void giris()
+    
+    
+
+    public String giris()
     {
-        System.out.println(this.getAdSoyad()+" giris yapti A kapisindan.");
+        return super.giris() + "A kapisindan";
+    }
+    public String GetBolum()
+    {
+        return Bolum;
     }
 
+    public void setBolum(String Bolum)
+    {
+        this.Bolum = Bolum;
+    }
     
+    public String getGorev()
+    {
+        return Gorev;
+    }
+
+    public void setGorev(String Gorev)
+    {
+        this.Gorev = Gorev;
+    }
+
+    public String getDers()
+    {
+        return ders;
+    }
+
+    public void setDers(String ders)
+    {
+        this.ders = ders;
+    }
 }

@@ -13,9 +13,9 @@ public class Calisan {
     }
 
 
-    protected void giris()
+    protected String giris()
     {
-        System.out.println(this.AdSoyad+" Giris Yapti!");
+        return this.AdSoyad+" giris yapti";
     }
 
     public String getAdSoyad()
@@ -44,5 +44,13 @@ public class Calisan {
     public void setTelefon(String Telefon)
     {
         this.Telefon = Telefon;
+    }
+
+    public static void listele(Calisan[] girisYapanlar)
+    {
+        for(Calisan kisi : girisYapanlar)
+        {
+            kisi.giris();
+        }
     }
 }

@@ -16,4 +16,10 @@ public class Asistan extends Akademisyen {
     {
         System.out.println("Asistan quizleri okudu!");
     }
+
+    @Override
+    public void derseGir(int dersSaati)
+    {
+        
+    }
 }

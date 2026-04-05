@@ -1,4 +1,4 @@
-public class Memur extends Calisan {
+public abstract class Memur extends Calisan {
     String departman;
     int mesai;
 
