@@ -1,7 +1,7 @@
 **JAVA OGRENME SURECİM**
 
 
-Bu repository, Java programlama dilini öğrenirken yazdığım kodları içermektedir..
+Bu repository, Java programlama dilini öğrenirken yazdığım kodları içermektedir.
 
 YouTube dersleri takip ederek temel seviyeden ileri seviyeye doğru ilerlemekteyim.
 
