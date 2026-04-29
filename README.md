@@ -8,6 +8,6 @@ YouTube dersleri takip ederek temel seviyeden ileri seviyeye doğru ilerlemektey
 Java dilini öğrenirken sadece video izlemiyorum öğrendiğim bilgileri kod yazarak uygulamaya çalışıyorum.
 
 Java dilindeki gelişimimi takip etmek için kodlara bakabilirsin.
-
+  
 
 
